@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmployeeAttendance</string>
+    <string name="report">View Attendence Report</string>
+    <string name="date">Date of the Month</string>
+    <string name="logged">No. of days Logged</string>
+    <string name="hours">Hours Logged</string>
+    <string name="present">Days Present</string>
+    <string name="absent">Days absent</string>
+</resources>
